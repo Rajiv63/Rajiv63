@@ -16,8 +16,8 @@ I’m a passionate developer who enjoys building modern, scalable, and user-frie
 
 **Frontend:** HTML, CSS, JavaScript, Angular, React
 **Backend:** Node.js, Express.js
-**Database:** MongoDB, MySQL
-**Tools:** Git, GitHub, VS Code, Postman
+**Database:**  MySQL
+**Tools:** Git, GitHub, VS Code
 **Deployment:** Vercel, Render, Railway
 
 ## Projects

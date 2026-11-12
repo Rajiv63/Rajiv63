@@ -70,17 +70,12 @@ rajiv@github:~$ neofetch
 </div>
 
 ---
-
 ## 📊 Dev Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajiv63&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajiv63&layout=donut-vertical&theme=gruvbox&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajiv63&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+[![Followers](https://img.shields.io/github/followers/Rajiv63?style=for-the-badge&logo=github&logoColor=black&color=00FF9C&labelColor=0d1117)](https://github.com/Rajiv63?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-View_All-00FF9C?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/Rajiv63?tab=repositories)
 
 </div>
 
@@ -96,6 +91,6 @@ rajiv@github:~$ _
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+🚀;Let's+build+something+together." alt="Footer typing" />
+**Thanks for stopping by! 🚀 Let's build something together.**
 
 </div>
